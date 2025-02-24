@@ -16,9 +16,6 @@ html,body{
 }
 
 /* Header start */
-.header {
-    border-bottom: 1px solid #E6E6E6;
-}
 
 .header_wrapper{
     display: flex;
